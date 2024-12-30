@@ -19,7 +19,7 @@ Uxuy Automation Check-in Tool & Auto Complete Task , Support Multi Account !
 1. **Clone the project:**
 
    ```bash
-   git clone https://github.com/Mittyadav/UXUY-BOT.git
+   git clone https://github.com/zainarain279/UXUY-Bot.git
    cd UXUY-Bot
 
 2. Install Dependencies
@@ -46,4 +46,6 @@ Uxuy Automation Check-in Tool & Auto Complete Task , Support Multi Account !
    ```
 
    For proxies
+   ```
    node uxuy-proxy.js
+   ```
